@@ -1,5 +1,7 @@
 # azure-devops-GKE-ansible
 
+#  WORK IN PROGRESS 
+
 # Azure Devops + GKE + Ansible Stack with dummy microservice application. 
 
 ##  What is Azure Devops and its related services 
@@ -27,3 +29,6 @@
 -   **Team Collaboration**
 
 -   **Hosted Services and integration with Azure Cloud**
+
+
+
