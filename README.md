@@ -41,3 +41,9 @@
 `   sudo apt-add-repository --yes --update ppa:ansible/ansible`
 
 `   sudo apt-get install ansible`
+
+
+
+
+
+ansible-playbook -i /opt/ansible/inventory/ --private-key=/root/gcpsshkey/mykey  azure-agent-play.yaml -vvvv
